@@ -1,0 +1,421 @@
+nav ul li a{
+    color: #205963;
+    text-decoration: none;
+    }
+
+nav ul li a:hover{
+    color: white;
+    }
+
+
+ nav ul li{
+    list-style: none;
+}
+    
+.body{
+    width: 428px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+
+.logo{
+        width: 150px;
+        height: 30px;
+        margin-top: 15px;
+        margin-left:  30px;
+    }
+       
+    .footer{
+        background-color: #B6CCD0;
+        color: white;
+        margin-top: 200px;
+        font-family: Poppins-Regular;
+        position: sticky;
+    }
+
+    @font-face {
+        font-family: "poppins";
+        src: url("Poppins-Regular.ttf");
+        }
+    
+    @font-face {
+            font-family: "poppins semibold";
+            src: url("Poppins-SemiBold.ttf");
+            }
+    
+.faq{
+    font-family: Poppins-SemiBold;
+    color: white; 
+    font-size: 21px;
+    position: relative;
+    text-align: center;
+}
+
+.info{
+    font-family: Poppins-Regular;
+    color: white; 
+    font-size: 10px;
+    text-align: center;
+    margin-top: -11px;
+}
+
+.div{
+    background-color: #A3BFC4;
+    height: 170px;
+}
+
+.main{
+    font-family: Poppins-Regular;
+}
+
+.vragenlijst{
+    background-color: #F6F8FA;
+    width: 100%;
+    height: 456px;
+    margin-top: 40px;
+    padding-top: 20px;
+}
+
+
+.footer{
+    display: flex;
+    background-color: #9EBBC1;
+    height: 130px;
+    width: 438px;
+    color: white;
+    margin-top: 120px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+}
+
+.disclaimer{
+    font-family: Poppins-SemiBold;
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: 12px;
+    margin-left: 35px;
+}
+
+.tekstdisclaimer{
+    font-family: Poppins-Regular;
+    font-size: 6px;
+    line-height: 8px;
+    color: white;
+    background-color: rgb(246, 248, 250, 28%);
+    width: 200px;
+    height: 65px;
+    padding: 7px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 35px;
+    padding-bottom: 10px;
+}
+
+.werktijden{
+    font-family: Poppins-Regular;
+    font-size: 7px;
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 270px;
+}
+
+.footercontact{
+    font-family: Poppins-SemiBold;
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: 12px;
+    margin-left: 38px;
+}
+
+.adres{
+    font-family: Poppins-Regular;
+    font-size: 7px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 348px;
+}
+
+.telefoonnummer{
+    font-family: Poppins-Regular;
+    font-size: 7px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 348px;
+}
+
+.werkuren{
+    font-family: Poppins-SemiBold;
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: 12px;
+    margin-left: 194px;
+}
+
+.menu{
+        font-family: Poppins-Regular;
+        font-size: 8px;
+        text-align: right;
+        margin-right: 20px;
+        margin-top: -50px;
+    }
+}
+
+.head{
+    display: flex;
+}
+
+.vraag{
+    box-sizing: border-box;
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 8px;
+    background-color: white;
+    width: 336.08px;
+    height: 34.82px;
+    border-radius: 3pt 3pt 3pt 3pt;
+    margin-right: 15px;
+    margin-top: 12px;
+    margin-left: 25px;
+    box-shadow: 0 0 3px rgba(201, 201, 201, 0.25);
+    margin-left: 50px;
+}
+
+.button3{
+    float: right;
+    margin-top: -23px;
+    margin-right: 15px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+    width: 2px;
+    height: 2px;
+}
+
+.button4{
+    float: right;
+    margin-top: -28px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button5{
+    float: right;
+    margin-top: -28px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button6{
+    float: right;
+    margin-top: -24px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button7{
+    float: right;
+    margin-top: -25px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button8{
+    float: right;
+    margin-top: -24px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button9{
+    float: right;
+    margin-top: -24px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button10{
+    float: right;
+    margin-top: -26px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+.button11{
+    float: right;
+    margin-top: -24px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+}
+
+
+.button3:hover, .button4:hover, .button5:hover, .button6:hover, .button7:hover, .button8:hover, .button9:hover, .button10:hover, .button11:hover{
+    color: #638b92;
+}
+
+.topnav {
+    overflow: hidden;
+    width: 100px;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+   
+  }
+  
+ 
+  .topnav #myLinks {
+    display: none;
+    background-color: #97acb1;
+    border-radius: 3px 3px 3px 3px;
+  }
+  
+
+  .topnav a {
+    font-family: Poppins-SemiBold;
+    color: white;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-size: 9px;
+    display: block;
+    text-align: right;
+  }
+  
+
+  .topnav a.icon {
+    position: absolute;
+    right: 0;
+    top: 5px;
+    font-size: 12px;
+   
+  }
+  
+  .topnav a:hover {
+    background-color: none;
+    color: #5c747a;
+  }
+  
+
+  .active {
+    box-sizing: border-box;
+    font-family: poppins;
+    color: white;
+    height: 15px;
+    box-shadow: 0 0 10px rgba(201, 201, 201);
+  }
+
+
+
+  .main{ 
+  background-color: #F6F8FA;
+  margin-top: 50px;
+  height: 100%;
+  padding-bottom: 40px;
+  padding-top: 20px
+
+  }
+
+  .accordion {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    border: none;
+    outline: none;
+    text-align: left;
+    transition: 0.4s;
+    border-radius: 3px 3px 3px 3px;
+    width: 336.05px;
+    height: 34.82px;
+    font-size: 8px;
+    font-family: Poppins-Regular;
+    margin-left: 45px;
+    margin-top: 15px;
+  }
+  
+  
+  .active2, .accordion:hover {
+    background-color: white;
+  }
+  
+
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    color: #5C5A5A;
+    width: 300px;
+    height: 280px;
+    font-size: 8px;
+    position: relative;
+    margin-left: 45px;
+    margin-top: -19px;
+  }
+
+  .lastzin{
+    margin-top: 25px;
+    color: black;
+    font-family: Poppins-SemiBold;
+  }
+
+  .lastbutton{
+    display: block;
+    margin-top: 13px;
+    background-color: #8EA2A7;
+    border: solid 1px white;
+    width: 105px;
+    height: 27px;
+    font-family: Poppins-SemiBold;
+    color: white;
+    font-size: 9.0px;
+    border-radius: 21pt 21pt 21pt 21pt; 
+    margin-left: 1px;
+    transition: .2s ease-out;
+  }
+
+  .lastbutton:hover{
+    background-color: #B5CBD0;
+    color: white;
+    transform: scale(1.07)
+  }
+
+
+.zin1{
+   margin-top: -5px;
+   float: left;
+}
+
+.zin2{
+    margin-top: -12px;
+    float: left;
+ }
+
+
+.informatie{
+    padding-top: 10px;
+}
+
+.accordion:after {
+  font-size: 13px;
+  color: #777;
+  float: right;
+ 
+}

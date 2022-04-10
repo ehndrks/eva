@@ -1,0 +1,264 @@
+nav ul li a{
+    color: #205963;
+    text-decoration: none;
+    }
+
+nav ul li a:hover{
+    color: white;
+    }
+
+
+ nav ul li{
+    list-style: none;
+}
+    
+.body{
+    width: 428px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+.kantoorfoto{
+   width: 419px;
+   height: 170px;
+   overflow-y: 265.95px;
+   float: left;
+   opacity: 84%;
+   margin-top: 80px; 
+   margin-left: -30px;
+} 
+
+.logo{
+        width: 150px;
+        height: 30px;
+        margin-top: 20px;
+        z-index: 1;
+        margin-left: 30px;
+    }
+       
+    .footer{
+        background-color: #B6CCD0;
+        color: white;
+        margin-top: 200px;
+        font-family: Poppins-Regular;
+    }
+
+    @font-face {
+        font-family: "poppins";
+        src: url("Poppins-Regular.ttf");
+        }
+    
+    @font-face {
+            font-family: "poppins semibold";
+            src: url("Poppins-SemiBold.ttf");
+            }
+    
+.overons{
+    font-family: Poppins-SemiBold;
+    color: white; 
+    font-size: 21px;
+    position: relative;
+    text-align: center;
+    
+}
+
+.info{
+    font-family: Poppins-Regular;
+    color: white; 
+    font-size: 10px;
+    text-align: left;
+    margin-left: 35px;
+    margin-right: 15px;
+    margin-top: -10px;
+}
+
+.div{
+    background-color: #A3BFC4;
+    height: 220px;
+    
+}
+
+.main{
+    font-family: Poppins-Regular;
+}
+
+.historie{
+    font-family: Poppins-SemiBold;
+    color: #7F9AA1;
+    font-size: 17px;
+    margin-top: 260px;
+    margin-left: 30px;
+}
+
+.teksthistorie{
+    font-size: 10px;
+    margin-left: 230px;
+    margin-top: -100px;
+    margin-right: 5psx;
+}
+
+.visie{
+    font-size: 17px;
+    font-family: Poppins-SemiBold;
+    margin-left: 30px;
+    padding-top: 20px;
+    margin-top: 60px;
+}
+
+.tekstvisie{
+    font-size: 10px;
+    margin-left: 23px;
+    margin: 17px;
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: -10px;
+}
+
+.devisie{
+    background-color: #F6F8FA;
+    width: 100%;
+    height: 215px;
+}
+
+
+.architectuurfoto{
+    width: 172px;
+    height: 82px;
+    border-radius: 3pt 3pt 3pt 3pt;
+}
+
+
+.footer{
+    display: flex;
+    background-color: #9EBBC1;
+    height: 130px;
+    width: 428px;
+    color: white;
+    margin-top: 100px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+}
+
+.disclaimer{
+    font-family: Poppins-SemiBold;
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.tekstdisclaimer{
+    font-family: Poppins-Regular;
+    font-size: 6px;
+    line-height: 8px;
+    color: white;
+    background-color: rgb(246, 248, 250, 28%);
+    width: 200px;
+    height: 65px;
+    padding: 7px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 35px;
+    padding-bottom: 10px;
+}
+
+.werktijden{
+    font-family: Poppins-Regular;
+    font-size: 7px;
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 265px;
+}
+
+.footercontact{
+    font-family: Poppins-SemiBold;
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: 12px;
+    margin-left: 45px;
+}
+
+.adres{
+    font-family: Poppins-Regular;
+    font-size: 7px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 348px;
+}
+
+.telefoonnummer{
+    font-family: Poppins-Regular;
+    font-size: 7px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 348px;
+}
+
+.werkuren{
+    font-family: Poppins-SemiBold;
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: 12px;
+    margin-left: 195px;
+}
+
+.menu{
+        font-family: Poppins-Regular;
+        font-size: 8px;
+        text-align: right;
+        margin-right: 20px;
+        margin-top: -50px;
+    }
+}
+
+.head{
+    display: flex;
+}
+
+
+
+.topnav {
+    overflow: hidden;
+    width: 100px;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+   
+  }
+  
+  .topnav #myLinks {
+    display: none;
+    background-color: #97acb1;
+    border-radius: 3px 3px 3px 3px;
+  }
+  
+  .topnav a {
+    font-family: Poppins-SemiBold;
+    color: white;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-size: 9px;
+    display: block;
+    text-align: right;
+  }
+  
+  .topnav a.icon {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    font-size: 12px;
+   
+  }
+  
+  .topnav a:hover {
+    background-color: none;
+    color: #5c747a;
+  }
+  
+
+  .active {
+    font-family: poppins;
+    color: white;
+    height: 15px;
+  }
